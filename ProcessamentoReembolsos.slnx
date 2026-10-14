@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ProcessamentoReembolsos.Application/ProcessamentoReembolsos.Application.csproj" />
+    <Project Path="src/ProcessamentoReembolsos.Console/ProcessamentoReembolsos.Console.csproj" />
+    <Project Path="src/ProcessamentoReembolsos.Domain/ProcessamentoReembolsos.Domain.csproj" />
+    <Project Path="src/ProcessamentoReembolsos.Infrastructure/ProcessamentoReembolsos.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ProcessamentoReembolsos.Application.Tests/ProcessamentoReembolsos.Application.Tests.csproj" />
+    <Project Path="tests/ProcessamentoReembolsos.Domain.Tests/ProcessamentoReembolsos.Domain.Tests.csproj" />
+    <Project Path="tests/ProcessamentoReembolsos.Infrastructure.Tests/ProcessamentoReembolsos.Infrastructure.Tests.csproj" />
+  </Folder>
+</Solution>

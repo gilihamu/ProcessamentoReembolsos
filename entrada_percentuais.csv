@@ -1,0 +1,7 @@
+Id,TipoProcedimento,DataProcedimento,ValorPago,ClienteId
+1,Consulta Médica,2026-03-10,100,301
+2,Exame de Imagem,2026-03-10,100,302
+3,Exame Laboratorial,2026-03-10,100,303
+4,Outros,2026-03-10,100,304
+5,Exame de Imagem,2026-03-10,1000,305
+6,Consulta Médica,2026-03-10,700,306

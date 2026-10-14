@@ -1,0 +1,5 @@
+Id,TipoProcedimento,DataProcedimento,ValorPago,ClienteId
+1,Exame de Imagem,2026-03-01,555,200
+2,Exame de Imagem,2026-03-02,555,200
+3,Exame de Imagem,2026-03-03,555,200
+4,Exame de Imagem,2026-03-04,555,200

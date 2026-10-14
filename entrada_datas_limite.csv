@@ -1,0 +1,4 @@
+Id,TipoProcedimento,DataProcedimento,ValorPago,ClienteId
+1,Consulta Médica,2025-12-20,200,401
+2,Consulta Médica,2025-12-19,200,402
+3,Consulta Médica,2025-12-18,200,403
